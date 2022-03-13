@@ -1,0 +1,5 @@
+File Name,Signal Power (w),Logic Power (w),Static Power (w),DC Power (w),Total Power (w),DataPath Delay,F7_Muxes,LUT_as_Memory,LUT_as_logic,Slice_LUTs,LUT1,LUT2,LUT3,LUT4,LUT5,LUT6,LUT7,LUT_as_Memory,LUT_as_Logic2,Slice_LUTs2,LUTs_difference
+top_CLA8,0.17,0.066,0.191,2.597,5.002,6.927ns,0,0,13,13,0,1,2,3,3,6,0,0,15,15,2
+top_CLA16,0.496,0.192,0.256,10.95,11.141,8.335ns,0,0,35,35,0,6,4,8,5,22,0,0,45,45,10
+top_CLA32,1.724,0.507,0.514,22.963,23.219,11.285ns,0,0,97,97,0,26,9,14,15,59,0,0,123,123,26
+top_CLA64,4.872,1.148,2.405,48.738,49.252,16.020ns,0,0,233,233,0,48,14,25,44,155,0,0,286,286,53
